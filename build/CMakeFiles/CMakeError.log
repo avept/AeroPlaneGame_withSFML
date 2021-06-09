@@ -1,0 +1,136 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/avept/oop/SFML_projects/zxc/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_44395/fast && /usr/bin/make -f CMakeFiles/cmTC_44395.dir/build.make CMakeFiles/cmTC_44395.dir/build
+make[1]: Entering directory '/home/avept/oop/SFML_projects/zxc/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_44395.dir/testCCompiler.c.o
+/bin/i686-w64-mingw32-gcc-9    -o CMakeFiles/cmTC_44395.dir/testCCompiler.c.o   -c /home/avept/oop/SFML_projects/zxc/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_44395
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_44395.dir/link.txt --verbose=1
+/bin/i686-w64-mingw32-gcc-9      -rdynamic CMakeFiles/cmTC_44395.dir/testCCompiler.c.o  -o cmTC_44395 
+i686-w64-mingw32-gcc-9: error: unrecognized command line option ‘-rdynamic’
+make[1]: *** [CMakeFiles/cmTC_44395.dir/build.make:87: cmTC_44395] Error 1
+make[1]: Leaving directory '/home/avept/oop/SFML_projects/zxc/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_44395/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/avept/oop/SFML_projects/zxc/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_81d16/fast && /usr/bin/make -f CMakeFiles/cmTC_81d16.dir/build.make CMakeFiles/cmTC_81d16.dir/build
+make[1]: Entering directory '/home/avept/oop/SFML_projects/zxc/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_81d16.dir/testCCompiler.c.o
+/bin/i686-w64-mingw32-gcc-9    -o CMakeFiles/cmTC_81d16.dir/testCCompiler.c.o   -c /home/avept/oop/SFML_projects/zxc/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_81d16
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_81d16.dir/link.txt --verbose=1
+/bin/i686-w64-mingw32-gcc-9      -rdynamic CMakeFiles/cmTC_81d16.dir/testCCompiler.c.o  -o cmTC_81d16 
+i686-w64-mingw32-gcc-9: error: unrecognized command line option ‘-rdynamic’
+make[1]: *** [CMakeFiles/cmTC_81d16.dir/build.make:87: cmTC_81d16] Error 1
+make[1]: Leaving directory '/home/avept/oop/SFML_projects/zxc/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_81d16/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/avept/oop/SFML_projects/zxc/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_98d9f/fast && /usr/bin/make -f CMakeFiles/cmTC_98d9f.dir/build.make CMakeFiles/cmTC_98d9f.dir/build
+make[1]: Entering directory '/home/avept/oop/SFML_projects/zxc/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_98d9f.dir/testCCompiler.c.o
+/bin/i686-w64-mingw32-gcc-9    -o CMakeFiles/cmTC_98d9f.dir/testCCompiler.c.o   -c /home/avept/oop/SFML_projects/zxc/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_98d9f
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_98d9f.dir/link.txt --verbose=1
+/bin/i686-w64-mingw32-gcc-9      -rdynamic CMakeFiles/cmTC_98d9f.dir/testCCompiler.c.o  -o cmTC_98d9f 
+i686-w64-mingw32-gcc-9: error: unrecognized command line option ‘-rdynamic’
+make[1]: *** [CMakeFiles/cmTC_98d9f.dir/build.make:87: cmTC_98d9f] Error 1
+make[1]: Leaving directory '/home/avept/oop/SFML_projects/zxc/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_98d9f/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/avept/oop/SFML_projects/zxc/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_aec51/fast && /usr/bin/make -f CMakeFiles/cmTC_aec51.dir/build.make CMakeFiles/cmTC_aec51.dir/build
+make[1]: Entering directory '/home/avept/oop/SFML_projects/zxc/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_aec51.dir/testCCompiler.c.o
+/bin/i686-w64-mingw32-gcc-9    -o CMakeFiles/cmTC_aec51.dir/testCCompiler.c.o   -c /home/avept/oop/SFML_projects/zxc/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_aec51
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_aec51.dir/link.txt --verbose=1
+/bin/i686-w64-mingw32-gcc-9      -rdynamic CMakeFiles/cmTC_aec51.dir/testCCompiler.c.o  -o cmTC_aec51 
+i686-w64-mingw32-gcc-9: error: unrecognized command line option ‘-rdynamic’
+make[1]: *** [CMakeFiles/cmTC_aec51.dir/build.make:87: cmTC_aec51] Error 1
+make[1]: Leaving directory '/home/avept/oop/SFML_projects/zxc/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_aec51/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/avept/oop/SFML_projects/zxc/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_13620/fast && /usr/bin/make -f CMakeFiles/cmTC_13620.dir/build.make CMakeFiles/cmTC_13620.dir/build
+make[1]: Entering directory '/home/avept/oop/SFML_projects/zxc/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_13620.dir/testCCompiler.c.o
+/bin/i686-w64-mingw32-gcc-9    -o CMakeFiles/cmTC_13620.dir/testCCompiler.c.o   -c /home/avept/oop/SFML_projects/zxc/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_13620
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_13620.dir/link.txt --verbose=1
+/bin/i686-w64-mingw32-gcc-9      -rdynamic CMakeFiles/cmTC_13620.dir/testCCompiler.c.o  -o cmTC_13620 
+i686-w64-mingw32-gcc-9: error: unrecognized command line option ‘-rdynamic’
+make[1]: *** [CMakeFiles/cmTC_13620.dir/build.make:87: cmTC_13620] Error 1
+make[1]: Leaving directory '/home/avept/oop/SFML_projects/zxc/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_13620/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/avept/oop/SFML_projects/zxc/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_6f05c/fast && /usr/bin/make -f CMakeFiles/cmTC_6f05c.dir/build.make CMakeFiles/cmTC_6f05c.dir/build
+make[1]: Entering directory '/home/avept/oop/SFML_projects/zxc/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_6f05c.dir/testCCompiler.c.o
+/bin/i686-w64-mingw32-gcc-9    -o CMakeFiles/cmTC_6f05c.dir/testCCompiler.c.o   -c /home/avept/oop/SFML_projects/zxc/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_6f05c
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6f05c.dir/link.txt --verbose=1
+/bin/i686-w64-mingw32-gcc-9      -rdynamic CMakeFiles/cmTC_6f05c.dir/testCCompiler.c.o  -o cmTC_6f05c 
+i686-w64-mingw32-gcc-9: error: unrecognized command line option ‘-rdynamic’
+make[1]: *** [CMakeFiles/cmTC_6f05c.dir/build.make:87: cmTC_6f05c] Error 1
+make[1]: Leaving directory '/home/avept/oop/SFML_projects/zxc/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_6f05c/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/avept/oop/SFML_projects/zxc/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_f4102/fast && /usr/bin/make -f CMakeFiles/cmTC_f4102.dir/build.make CMakeFiles/cmTC_f4102.dir/build
+make[1]: Entering directory '/home/avept/oop/SFML_projects/zxc/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f4102.dir/testCCompiler.c.o
+/bin/i686-w64-mingw32-gcc-9    -o CMakeFiles/cmTC_f4102.dir/testCCompiler.c.o   -c /home/avept/oop/SFML_projects/zxc/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_f4102
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f4102.dir/link.txt --verbose=1
+/bin/i686-w64-mingw32-gcc-9      -rdynamic CMakeFiles/cmTC_f4102.dir/testCCompiler.c.o  -o cmTC_f4102 
+i686-w64-mingw32-gcc-9: error: unrecognized command line option ‘-rdynamic’
+make[1]: *** [CMakeFiles/cmTC_f4102.dir/build.make:87: cmTC_f4102] Error 1
+make[1]: Leaving directory '/home/avept/oop/SFML_projects/zxc/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_f4102/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/avept/oop/SFML_projects/zxc/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_bdf09/fast && /usr/bin/make -f CMakeFiles/cmTC_bdf09.dir/build.make CMakeFiles/cmTC_bdf09.dir/build
+make[1]: Entering directory '/home/avept/oop/SFML_projects/zxc/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_bdf09.dir/testCCompiler.c.o
+/bin/i686-w64-mingw32-gcc-9    -o CMakeFiles/cmTC_bdf09.dir/testCCompiler.c.o   -c /home/avept/oop/SFML_projects/zxc/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_bdf09
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_bdf09.dir/link.txt --verbose=1
+/bin/i686-w64-mingw32-gcc-9      -rdynamic CMakeFiles/cmTC_bdf09.dir/testCCompiler.c.o  -o cmTC_bdf09 
+i686-w64-mingw32-gcc-9: error: unrecognized command line option ‘-rdynamic’
+make[1]: *** [CMakeFiles/cmTC_bdf09.dir/build.make:87: cmTC_bdf09] Error 1
+make[1]: Leaving directory '/home/avept/oop/SFML_projects/zxc/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_bdf09/fast] Error 2
+
+
+

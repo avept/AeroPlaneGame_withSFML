@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/main.dir/main.cpp.o  -o main  libGame.a -lsfml-graphics -lsfml-window -lsfml-system 

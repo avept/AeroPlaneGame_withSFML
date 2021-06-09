@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/avept/oop/SFML_projects/zxc/Game.cpp
+Game.hpp
+/home/avept/oop/SFML_projects/zxc/Game.hpp
+
+/home/avept/oop/SFML_projects/zxc/Game.hpp
+SFML/Graphics.hpp
+-
+

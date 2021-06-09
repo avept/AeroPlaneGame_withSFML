@@ -1,0 +1,4 @@
+/home/avept/oop/SFML_projects/zxc/CMakeFiles/rebuild_cache.dir
+/home/avept/oop/SFML_projects/zxc/CMakeFiles/edit_cache.dir
+/home/avept/oop/SFML_projects/zxc/CMakeFiles/Game.dir
+/home/avept/oop/SFML_projects/zxc/CMakeFiles/main.dir
